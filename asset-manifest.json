@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/nakka_ai/static/css/main.ed705f0a.css",
-    "main.js": "/nakka_ai/static/js/main.6c614a68.js",
+    "main.css": "/nakka_ai/static/css/main.189fff71.css",
+    "main.js": "/nakka_ai/static/js/main.8063cb9b.js",
+    "static/media/Planning.jpg": "/nakka_ai/static/media/Planning.8e52c3215feef280361f.jpg",
+    "static/media/BGR.jpg": "/nakka_ai/static/media/BGR.5bba666078cf3e8c67fa.jpg",
     "static/media/blog_5.png": "/nakka_ai/static/media/blog_5.c3a5096b3a77ea69f119.png",
     "static/media/blog_2.png": "/nakka_ai/static/media/blog_2.eb9fd1e84676a4434af7.png",
     "static/media/targets.png": "/nakka_ai/static/media/targets.c826b8a9d81f806d35d6.png",
     "static/media/features.png": "/nakka_ai/static/media/features.6fcf763eb3677685c7e5.png",
     "static/media/1_tasks_and_routes.png": "/nakka_ai/static/media/1_tasks_and_routes.50e0e5014ebe120e39b9.png",
+    "static/media/demo_day_2025_nakka_poster_v4.png": "/nakka_ai/static/media/demo_day_2025_nakka_poster_v4.f08dcfb8e074a2c3bc3f.png",
     "static/media/blog_4.png": "/nakka_ai/static/media/blog_4.206296d4771b77a219a8.png",
     "static/media/blog_1.png": "/nakka_ai/static/media/blog_1.3f1c1896ffe008fe9a8e.png",
     "static/media/blog_3.png": "/nakka_ai/static/media/blog_3.008e5552a64407278da5.png",
@@ -14,14 +17,19 @@
     "static/media/2_shift_types.png": "/nakka_ai/static/media/2_shift_types.d60c1049a86b3e5e46a8.png",
     "static/media/4_shift_activities.png": "/nakka_ai/static/media/4_shift_activities.a2447741371207a1e2c4.png",
     "static/media/FH_Kaernten_Logo.svg": "/nakka_ai/static/media/FH_Kaernten_Logo.1ed0a7360391c822a2c58be4bdbecb51.svg",
+    "static/media/nakka_icon_text_nakka_optimize_v2.svg": "/nakka_ai/static/media/nakka_icon_text_nakka_optimize_v2.eaa4a0b2069671464bf490b0b97f0178.svg",
+    "static/media/nakka_icon_text_nakka_optimize_v1.svg": "/nakka_ai/static/media/nakka_icon_text_nakka_optimize_v1.719da8c87fbe1474ca80351cb1ec04c7.svg",
+    "static/media/Logo_outline_nakka_horizontal_blue_vector.svg": "/nakka_ai/static/media/Logo_outline_nakka_horizontal_blue_vector.bd4c304aa429a80c505345947fd65379.svg",
+    "static/media/nakka_icon_v1.svg": "/nakka_ai/static/media/nakka_icon_v1.55f9ca36966bd9d0ef4bab6a560a2839.svg",
+    "static/media/Icon_FULL_vector.svg": "/nakka_ai/static/media/Icon_FULL_vector.2d1128540bbd03fc3f75.svg",
     "static/media/nakka-logo.svg": "/nakka_ai/static/media/nakka-logo.34d3da09fc5c5e59ec42b1ef38ab4796.svg",
     "static/media/LinkedIn_icon.svg": "/nakka_ai/static/media/LinkedIn_icon.e1d3eb6209a3463f9abf85a0328f28e2.svg",
     "index.html": "/nakka_ai/index.html",
-    "main.ed705f0a.css.map": "/nakka_ai/static/css/main.ed705f0a.css.map",
-    "main.6c614a68.js.map": "/nakka_ai/static/js/main.6c614a68.js.map"
+    "main.189fff71.css.map": "/nakka_ai/static/css/main.189fff71.css.map",
+    "main.8063cb9b.js.map": "/nakka_ai/static/js/main.8063cb9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed705f0a.css",
-    "static/js/main.6c614a68.js"
+    "static/css/main.189fff71.css",
+    "static/js/main.8063cb9b.js"
   ]
 }
