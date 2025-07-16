@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nakka_ai/static/css/main.189fff71.css",
-    "main.js": "/nakka_ai/static/js/main.f821a1ce.js",
+    "main.js": "/nakka_ai/static/js/main.e6223074.js",
     "static/media/Planning.jpg": "/nakka_ai/static/media/Planning.8e52c3215feef280361f.jpg",
     "static/media/BGR.jpg": "/nakka_ai/static/media/BGR.5bba666078cf3e8c67fa.jpg",
     "static/media/blog_5.png": "/nakka_ai/static/media/blog_5.c3a5096b3a77ea69f119.png",
@@ -26,10 +26,10 @@
     "static/media/LinkedIn_icon.svg": "/nakka_ai/static/media/LinkedIn_icon.e1d3eb6209a3463f9abf85a0328f28e2.svg",
     "index.html": "/nakka_ai/index.html",
     "main.189fff71.css.map": "/nakka_ai/static/css/main.189fff71.css.map",
-    "main.f821a1ce.js.map": "/nakka_ai/static/js/main.f821a1ce.js.map"
+    "main.e6223074.js.map": "/nakka_ai/static/js/main.e6223074.js.map"
   },
   "entrypoints": [
     "static/css/main.189fff71.css",
-    "static/js/main.f821a1ce.js"
+    "static/js/main.e6223074.js"
   ]
 }
